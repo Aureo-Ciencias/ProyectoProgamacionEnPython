@@ -1,4 +1,3 @@
-numpy==1.23.1
-pandas==1.3.5
-matplotlib==3.5.1
-scikit-learn==1.0.2
+# Este proyecto utiliza únicamente bibliotecas estándar de Python.
+# No se requieren paquetes externos.
+# Asegúrate de usar Python 3.6 o superior.
